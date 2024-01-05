@@ -1,0 +1,10 @@
+# IDE config directories.
+.idea/
+.vscode/
+
+# Dependency directories.
+node_modules/
+vendor/
+
+# Binary directories.
+bin/
